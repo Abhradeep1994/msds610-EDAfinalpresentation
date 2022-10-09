@@ -36,6 +36,7 @@ Before we delve into the intricacies of EDA there are a few things that we shoul
 Having a good understanding of the different data types, also called measurement scales, is a crucial prerequisite for doing EDA, since you can use certain statistical analysis only for specific data types. We also need to know which data type we are dealing with to choose the right visualization method. 
 
 ### Data Visualization 
+![1*-YU12wkvW90UYQteYx9LxA](https://user-images.githubusercontent.com/109040294/194748141-c1937f94-10f7-493f-bf92-ec9b8815fbea.png)
 Data visualization is the practice of translating information into a visual context, such as a map or graph, to make data easier for the human brain to understand and pull insights from. Data visualization provides a quick and effective way to communicate information in a universal manner using visual information.
 
 Below are the most important data visualizations that every data science professional must know:
