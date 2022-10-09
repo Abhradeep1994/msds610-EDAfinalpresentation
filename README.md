@@ -2,7 +2,7 @@
 
 **By**: Ensun Pak, Stephen Louie and Abhradeep Mukherjee
 
-![ed289b54-6dc8-475c-a15c-3697f9cb4702](https://user-images.githubusercontent.com/109040294/194746030-3813cda6-2de0-435a-8d23-816319168643.jpeg)
+![1*0rbJLYbPrY7s0M0m86sV3Q](https://user-images.githubusercontent.com/109040294/194748553-7c3d737c-53fa-4b71-84c0-9f8177c993ca.png)
 
 ## Introduction
 This repository contains our final group presentation for our MSDS 610: Communication for Analytics course, where we are explaining EDA. Along the way we'll realize how important EDA is and why Data Scientists should spend a good amount of time in EDA. For a shorter version you can alsp check out this [repository](https://github.com/Abhradeep1994/msds610-EDApresentation) 
