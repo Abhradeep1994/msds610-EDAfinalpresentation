@@ -84,3 +84,11 @@ To use this notebook you need to run the following command:
 ```
 git clone https://github.com/Abhradeep1994/msds610-EDAfinalpresentation.git
 ```
+## Simple Real World Analogy
+![alt img](https://github.com/Abhradeep1994/msds610-EDAfinalpresentation/blob/main/img/chevron.png)
+
+Data has become increasingly utilized in decision making. While the benefits of data-based approaches can include more precise estimates and predictions. Erroneous or misleading data can often lead to misinformed conclusions that can lead to reduced efficiency and higher expenditures.
+
+![alt img](https://github.com/Abhradeep1994/msds610-EDAfinalpresentation/blob/main/img/worker.png)
+
+An energy company was using field data in oil operations. In order to pump oil, steam is used to warm up the oil in order to ensure that the oil flows more easily. In order to determine the amount of steam needed, infrared readings take the temperature of the lines. However, the lines can become dirty and insulated causing the temperature readings to be way off. Because this problem went unnoticed, more steam was constantly used. This resulted in excessive operational expenses that exceeded tens of millions of dollars.
