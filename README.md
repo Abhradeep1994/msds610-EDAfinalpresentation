@@ -21,10 +21,12 @@ The figure below shows the process flow from data collection to decision making 
 ## Type of EDA
 
 Generally, EDA falls into two categories:
-- The **univariate analysis** involves analyzing one feature, such as summarizing and finding the feature patterns.
-- The **multivariate analysis** technique shows the relationship between two or more features using cross-tabulation or statistic
+- **univariate analysis** involves analyzing one feature, such as summarizing and finding the feature patterns.
+- **multivariate analysis** technique shows the relationship between two or more features using cross-tabulation or statistic
 
 <img width="1307" alt="Screen Shot 2022-10-09 at 1 04 47 AM" src="https://user-images.githubusercontent.com/109040294/194745214-b52b5b1c-587e-41a3-a9f2-53ab00773231.png">
+
+
 
 ## Important Definitions
 
