@@ -104,4 +104,18 @@ For this demo, we used the auto-mpg.csv dataset from [Kaggle](https://www.kaggle
 
 We will develop a SLR model for each scenario and compare their results. The model we will develop: MPG ~ Horsepower
 
-### Scenario 1. Dataset is clean
+### Scenario 1. Dataset is clean (EDA was performed)
+<img width="400" alt="SLR with perfect data" src="https://github.com/Abhradeep1994/msds610-EDAfinalpresentation/blob/main/img/slr_perfect.png">
+
+### Scenario 2. Outlier in the predictor data
+<img width="400" alt="SLR with perfect data" src="https://github.com/Abhradeep1994/msds610-EDAfinalpresentation/blob/main/img/slr_outlier.png">
+
+### Scenario 3. Missing data in the predictor data
+<img width="400" alt="SLR with perfect data" src="https://github.com/Abhradeep1994/msds610-EDAfinalpresentation/blob/main/img/slr_null.png">
+
+### Comparison of the three scenarios
+<img width="480" alt="SLR with perfect data" src="https://github.com/Abhradeep1994/msds610-EDAfinalpresentation/blob/main/img/summary.png">
+
+As you can see from the plot, the "cleanliness" of the dataset that you are working on matters. In this example, the largest difference can be seen in the data outlier scenario.
+
+This reinforces the importance of applying EDA on our datasets before using them, to ensure we understand the intuition in the data and we produce the best possible value from it.
