@@ -12,12 +12,12 @@ The objective of this presentation is to show the importance of Exploratory Data
 
 ## Importance of EDA
 Exploratory Data Analysis helps us to –
-- · To give insight into a data set.
-- · Understand the underlying structure.
-- · Extract important parameters and relationships that hold between them.
-- · Test underlying assumption
+- To give insight into a data set.
+- Understand the underlying structure.
+- Extract important parameters and relationships that hold between them.
+- Test underlying assumption
 
-The figure below shows the process flow from data collection to decision making which is generally done in any data oriented work:
+The figure below shows the process flow from data collection to decision making which is generally followed in any data related work:
 
 <img width="1440" alt="Screen Shot 2022-10-09 at 1 00 04 AM" src="https://user-images.githubusercontent.com/109040294/194744960-7665d214-4ff1-473f-97a4-781bd6fc690a.png">
 
