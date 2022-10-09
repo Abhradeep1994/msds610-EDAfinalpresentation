@@ -92,3 +92,16 @@ Data has become increasingly utilized in decision making. While the benefits of 
 ![alt img](https://github.com/Abhradeep1994/msds610-EDAfinalpresentation/blob/main/img/worker.png)
 
 An energy company was using field data in oil operations. In order to pump oil, steam is used to warm up the oil in order to ensure that the oil flows more easily. In order to determine the amount of steam needed, infrared readings take the temperature of the lines. However, the lines can become dirty and insulated causing the temperature readings to be way off. Because this problem went unnoticed, more steam was constantly used. This resulted in excessive operational expenses that exceeded tens of millions of dollars.
+
+## Example on data quality affecting model result
+
+Here is an example to show how developing a simple linear regression model from a same dataset can give us very different results. Imagine its impact to the business!
+
+For this demo, we used the auto-mpg.csv dataset from [Kaggle](https://www.kaggle.com/datasets/uciml/autompg-dataset). Based on these three scenarios:
+- Data nicely treated (assume EDA was performed).
+- There is an outlier data point that was not treated.
+- There are missing values in the selected predictor.
+
+We will develop a SLR model for each scenario and compare their results. The model we will develop: MPG ~ Horsepower
+
+### Scenario 1. Dataset is clean
