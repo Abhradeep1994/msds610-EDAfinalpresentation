@@ -15,7 +15,7 @@ Exploratory Data Analysis helps us to:
 - To give insight into a data set.
 - Understand the underlying structure.
 - Extract important parameters and relationships that hold between them.
-- Test underlying assumption
+- Test underlying assumption.
 
 The figure below shows the process flow from data collection to decision making which is generally followed in any data related work:
 
@@ -24,7 +24,7 @@ The figure below shows the process flow from data collection to decision making 
 ## Type of EDA
 Generally, EDA falls into two categories:
 - **Univariate analysis** involves analyzing one feature, such as summarizing and finding the feature patterns.
-- **Multivariate analysis** technique shows the relationship between two or more features using cross-tabulation or statistic
+- **Multivariate analysis** technique shows the relationship between two or more features using cross-tabulation or statistic.
 
 <img width="1307" alt="Screen Shot 2022-10-09 at 1 04 47 AM" src="https://user-images.githubusercontent.com/109040294/194745214-b52b5b1c-587e-41a3-a9f2-53ab00773231.png">
 
@@ -49,10 +49,10 @@ Below are the most important data visualizations that every data science profess
 ### Important Statistical Measures
 In descriptive statistics, summary statistics are used to summarize a set of observations, in order to communicate the largest amount of information as simply as possible. Statisticians commonly try to describe the observations in:
 
-- a measure of location, or central tendency, such as the arithmetic mean.
-- a measure of statistical dispersion like the standard mean absolute deviation.
-- a measure of the shape of the distribution like skewness or kurtosis.
-- if more than one variable is measured, a measure of statistical dependence such as a correlation coefficient.
+- A measure of location, or central tendency, such as the arithmetic mean.
+- A measure of statistical dispersion like the standard mean absolute deviation.
+- A measure of the shape of the distribution like skewness or kurtosis.
+- If more than one variable is measured, a measure of statistical dependence such as a correlation coefficient.
 ![250705 image0](https://user-images.githubusercontent.com/109040294/194747157-4ebd2250-e1cb-43f1-8af9-1c9e73f3d8ef.jpeg)
 
 ## Important Steps for EDA
@@ -60,17 +60,17 @@ In descriptive statistics, summary statistics are used to summarize a set of obs
 ### Missing Values
 Missing values in our dataset can cause major roadblocks in reaching our end goal. Therefore we should identify them and treat them so that we have a uniform dataset which can be used for the next steps:
 The standard ways of treating missing values are:
-- Either filling up the missing values with a statistical measure(depends on the scenario)
-- If they are less in number, drop them
+- Either filling up the missing values with a statistical measure(depends on the scenario).
+- If they are less in number, drop them.
 
 ### Identifying and converting to the right data types
 Since data-types of columns determine the kind of analysis and plots we can do, it's a crucial step to ensure we convert and have the correct data types for our data.
 
 ### Calculating Summary Statistics
-Using the statistical measures we have defined above we can calculate the summary statistics which will give us a better understanding of our data. We can also understand if our statistical measures are impacted by the presence of outliers. (** Outliers** : They are those data points which are not following the general rule or pattern that we see in our data) 
+Using the statistical measures we have defined above we can calculate the summary statistics which will give us a better understanding of our data. We can also understand if our statistical measures are impacted by the presence of outliers. (**Outliers** : They are those data points which are not following the general rule or pattern that we see in our data) 
 
 ### Creating plots for visualization
-Finally we create plots using the data we have prepared to visualize and draw better insights for the next steps(modelling, reporting, etc)
+Finally we create plots using the data we have prepared to visualize and draw better insights for the next steps(modelling, reporting, etc).
 
 ## Technical Specifications
 Now that we have fair bit of idea, let's get to know how we can incorporate the above steps in our data. We will be using Python(3.9) as our primary language but we can also other languages like R to get these details:
