@@ -95,14 +95,13 @@ An energy company was using field data in oil operations. In order to pump oil, 
 
 ## Example on data quality affecting model result
 
-Here is an example to show how developing a simple linear regression model from a same dataset can give us very different results. Imagine its impact to the business!
+Here is an example referenced from the previous section to show how developing a simple linear regression model from a same dataset can give us very different results.
 
-For this demo, we used the auto-mpg.csv dataset from [Kaggle](https://www.kaggle.com/datasets/uciml/autompg-dataset). Based on these three scenarios:
 - Data nicely treated (assume EDA was performed).
 - There is an outlier data point that was not treated.
 - There are missing values in the selected predictor.
 
-We will develop a SLR model for each scenario and compare their results. The model we will develop: MPG ~ Horsepower
+We will develop a SLR model for each scenario and compare their results.
 
 ### Scenario 1. Dataset is clean (EDA was performed)
 <img width="400" alt="SLR with perfect data" src="https://github.com/Abhradeep1994/msds610-EDAfinalpresentation/blob/main/img/slr_perfect.png">
